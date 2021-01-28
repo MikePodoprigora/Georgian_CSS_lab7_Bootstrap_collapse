@@ -1,0 +1,15 @@
+/* Custom CSS */
+/* STEP 15: Remove the underline from the links, and extend the anchor all the way across the card header for better usability */
+body{
+    background-color: beige;
+}
+
+h2{
+    color: aqua;
+}
+
+h2[aria-expanded="true"] {
+    background-color: yellow;
+}
+
+
